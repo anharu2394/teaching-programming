@@ -1,7 +1,7 @@
-# Concept
+# The concept
 
-## 「プログラミング教育をビジネスにしないで」
+## 「プログラミング教育をビジネスにしないで
 "Programming Education is not a business."
 
 ## 「誰でもプログラミングを無料で学べるように」
-"Anyone can learn programming for free."
+""Anyone can learn programming for free."
