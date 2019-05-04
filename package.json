@@ -1,8 +1,8 @@
 {
-    "author": "Simon Hampton",
-    "name": "elm-webpack-starter",
+    "author": "Anharu",
+    "name": "programming education website",
     "version": "3.7.0",
-    "description": "Elm 0.19 starter with Webpack 4 hot-reloading",
+    "description": "programming education website",
     "main": "index.js",
     "scripts": {
         "test": "elm-test",
@@ -13,8 +13,7 @@
         "analyse": "elm-analyse -s -p 3001 -o"
     },
     "repository": {
-        "type": "git",
-        "url": "git+https://github.com/simonh1000/elm-webpack-starter.git"
+        "type": "git"
     },
     "license": "MIT",
     "devDependencies": {
